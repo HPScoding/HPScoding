@@ -8,7 +8,7 @@
 <div style="display:flex; ">
 <p> I'm a high school student with One year experience of coding. </p>
 <p>
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width= 80px>
 </p>
 </div>
 
