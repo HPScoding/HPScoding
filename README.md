@@ -43,10 +43,7 @@
                                                  </div>
                                              </div>
                                             
-                                       </div>
-  
-  
-                                   </div>
+                                    
 
 <h1> <a href="https://github.com/HPScoding?tab=repositories" > Some of my projects </a> </h1>
 <p>
