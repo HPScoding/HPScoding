@@ -12,9 +12,9 @@
 </p>
 </div>
                                             
-<div style="max-width:300px">
+<div style="max-width:300px; width:100%;">
  <p> HTML</p>
- <div></div>
+ <div style="width:90%; height:10px; background-color: red; "></div>
  <p>90% </p>
 </div>
 
