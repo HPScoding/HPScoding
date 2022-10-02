@@ -14,7 +14,7 @@
                                             
 <div style="max-width:300px; width:100%;">
  <p> HTML</p>
- <div style="width:90%; height:10px; background-color: red; "></div>
+ <div style="width:90%; height:10px; background-color: red; color: red ">  20</div>
  <p>90% </p>
 </div>
 
