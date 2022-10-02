@@ -17,7 +17,7 @@
                                            <div class="skill-items padd-15">
                                                <h5>HTML</h5>
                                                <div class="progress">
-                                                   <div class="progress-in" style="width:90% ;"></div>
+                                                   <div class="progress-in" style="width:90% ; background-color: red;"></div>
                                                    <div class="skill-percent">90%</div>
                                                </div>
                                            </div>
