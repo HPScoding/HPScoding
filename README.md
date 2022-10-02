@@ -3,7 +3,7 @@
 # Hi I'm Harsh Preet Singh 
 
 <p>
-  <img src="https://img.freepik.com/free-vector/laptop-with-pr…-programming-applications-dark-neon_39422-971.jpg"  >
+  <img src="https://img.freepik.com/free-vector/laptop-with-pr…-programming-applications-dark-neon_39422-971.jpg" margin=0 >
 </p>
 <div style="display:flex; ">
 <p> I'm a high school student with One year experience of coding. </p>
