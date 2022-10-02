@@ -8,7 +8,7 @@
 <div style="display:flex; ">
 <p> I'm a high school student with One year experience of coding. </p>
 <p>
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width= 80px>
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width= 200px>
 </p>
 </div>
 
@@ -44,6 +44,8 @@
                                              </div>
                                             
                                        </div>
+  
+  
                                    </div>
 
 <h1> <a href="https://github.com/HPScoding?tab=repositories" > Some of my projects </a> </h1>
