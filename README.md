@@ -1,6 +1,7 @@
 # My-profile
 
-# Hi I'm Harsh Preet Singh <img src="https://fonts.gstatic.com/s/e/notoemoji/14.0/1f60e/72.png" width=40px>
+
+# Hi I'm Harsh Preet Singh <img src=""C:\Users\ਹਰਸ਼ ਪਰੀਤ ਸਿੰਗ\Downloads\profile img.png"" width=40px>
 
 <p>
   <img src="https://img.freepik.com/free-vector/laptop-with-pr…-programming-applications-dark-neon_39422-971.jpg" margin=0 >
