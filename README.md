@@ -1,7 +1,10 @@
-# My-profile
 
+I'm Harsh Preet Singh. A rising webdeveloper, a high school student.
 
-# Hi I'm Harsh Preet Singh <img src="C:\Users\ਹਰਸ਼ ਪਰੀਤ ਸਿੰਗ\Downloads\profile img.png" width=40px>
+I have worked with following languages.
+<p>
+  <img src="	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtlP1J5mqNncn2K0krgyKWzIAEbskKWwgC1Q&usqp=CAU">
+</p>
 
 <p>
   <img src="C:\Users\ਹਰਸ਼ ਪਰੀਤ ਸਿੰਗ\Downloads\profile img.png" margin=0 >
