@@ -11,4 +11,10 @@ I have worked with following languages.
 
 
 
-
+js
+![download](https://user-images.githubusercontent.com/96297528/204090728-92e473cf-438a-4f27-9f21-46e288f1954c.png)
+  python
+![images (1)](https://user-images.githubusercontent.com/96297528/204090729-d6155c2f-b5cf-4771-a3da-de384ad17202.png)
+  react
+  
+![download (2)](https://user-images.githubusercontent.com/96297528/204090732-45b4f813-5f7c-466f-b8d3-dc84d0b4bb9c.png)
