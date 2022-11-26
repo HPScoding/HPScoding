@@ -21,7 +21,7 @@ I have worked with following languages.
 
 
 
- My experience in these language.
+<p> My experience in these language.</p>
  
  
 <img src="https://user-images.githubusercontent.com/96297528/204092404-9bd9c9a0-1918-4d32-8dd4-2c3101e2c695.png" width="500" height="400">
