@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/96297528/204026165-4328279c-9c6c-4e0f-9e86-ff8b478bb179.gif" width="100%" height="200">
+<img src="https://user-images.githubusercontent.com/96297528/204026165-4328279c-9c6c-4e0f-9e86-ff8b478bb179.gif" width="100%" height="300">
 
 I'm Harsh Preet Singh. A rising webdeveloper, a high school student.
 
