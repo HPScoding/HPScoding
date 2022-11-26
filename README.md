@@ -5,16 +5,7 @@ I'm Harsh Preet Singh. A rising webdeveloper, a high school student.
 
 I have worked with following languages.
 
-<img src="https://user-images.githubusercontent.com/96297528/204023844-56406436-c276-4bb6-9d1e-6137e263b408.png" align="left" width="182" height="200">          <img src="https://user-images.githubusercontent.com/96297528/204023924-c24ab871-7656-429b-ab3d-a88b37780164.jpeg" align="right" width="182" height="200" > 
+<img src="https://user-images.githubusercontent.com/96297528/204023844-56406436-c276-4bb6-9d1e-6137e263b408.png" align="left" width="182" height="200">          <img src="https://user-images.githubusercontent.com/96297528/204090729-d6155c2f-b5cf-4771-a3da-de384ad17202.png" align="right" width="182" height="200" > 
 <img src="https://user-images.githubusercontent.com/96297528/204024128-5db1ace7-acee-4427-8df8-c7268267c411.png" align="left" width="182" height="200">
-<img src="https://user-images.githubusercontent.com/96297528/204023879-8599e8ba-2da9-4475-9149-ed4b2b734b7d.png" align="center" width="182" height="200">         <img src="https://user-images.githubusercontent.com/96297528/204023996-a3fb5818-2c61-44b2-b855-87cf9177e1e1.jpeg" align="right" width="182" height="200"><H> 
+<img src="https://user-images.githubusercontent.com/96297528/204090728-92e473cf-438a-4f27-9f21-46e288f1954c.png" align="center" width="182" height="200">         <img src="https://user-images.githubusercontent.com/96297528/204090732-45b4f813-5f7c-466f-b8d3-dc84d0b4bb9c.png" align="right" width="182" height="200"><H> 
 
-
-
-js
-![download](https://user-images.githubusercontent.com/96297528/204090728-92e473cf-438a-4f27-9f21-46e288f1954c.png)
-  python
-![images (1)](https://user-images.githubusercontent.com/96297528/204090729-d6155c2f-b5cf-4771-a3da-de384ad17202.png)
-  react
-  
-![download (2)](https://user-images.githubusercontent.com/96297528/204090732-45b4f813-5f7c-466f-b8d3-dc84d0b4bb9c.png)
