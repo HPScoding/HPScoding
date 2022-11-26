@@ -14,7 +14,7 @@ I have worked with following languages.
 <img src="https://user-images.githubusercontent.com/96297528/204090728-92e473cf-438a-4f27-9f21-46e288f1954c.png" align="left" width="150"  height="100">  
 
       
-
+<p align="right">
 
 
 
